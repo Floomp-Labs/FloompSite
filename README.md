@@ -3,7 +3,7 @@ A cyberpunk-inspired, retro-futuristic splash page for the Floomp Labs organizat
 Show Image
 Features
 
-CHECK IT OUT: floompsite.netlify.app
+CHECK IT OUT: https://floompsite.netlify.app/
 
 Interactive terminal boot sequence with typewriter effect
 Animated portal entry effect with lightspeed transition
@@ -15,7 +15,7 @@ GitHub link with hover animation
 
 Getting Started
 Simply clone the repository and open index.html in your browser. No build steps or dependencies required.
-bashCopygit clone https://github.com/floomp-labs/splash-page.git
+bashCopygit clone https://github.com/floomp-labs/FloompSite.git
 cd splash-page
 open index.html
 Technical Details
